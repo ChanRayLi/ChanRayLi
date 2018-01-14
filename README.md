@@ -1,2 +1,3 @@
 # ChanRayLi
-My One Test  GiitHub
+我的一个测试GiitHub
+my one test edit
